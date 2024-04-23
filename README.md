@@ -13,9 +13,7 @@ You'll find examples of the generated charts below. Notebooks for the visualisat
 
 Companion blog post can be read [here](https://www.edriessen.com/2024/04/22/recreating-an-alli-torban-visualisation-with-python-and-matplotlib/).
 
-![alli torban bar chart viz](/images/alli torban - single bar chart viz.png)
-
-
+![alli torban bar chart viz](images/alli torban - single bar chart viz.PNG)
 
 ## About
 
